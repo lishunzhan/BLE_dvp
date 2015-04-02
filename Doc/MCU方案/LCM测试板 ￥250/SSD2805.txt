@@ -1,0 +1,19 @@
+SSD2805-MIPI Master Bridge Chip
+Features
+Support up to 700Mbps over 2 data lanes (350Mbps per lane)
+Reduce number of signals to 8 lines over the serial link (DATAP0, DATAN0, DATAP1, DATAN1, CLKP, CLKN, MIPI_RES# and SYS_CLK)
+Reduce power consumption and decrease EMI by using low amplitude signal over differential pair for serial data.
+Support parallel MCU interface up to 16 bits (6800, 8080)
+Support parallel RGB interface up to 24 bits
+Support serial SPI interface up to 24 bits (8 Bit 4 Wire, 8 Bit 3 Wire, 24 Bit 3 Wire)
+Support 16, 18 and 24 bit per pixel for both MCU and RGB interfaces
+Support dual display panel (MCU + MCU panels or MCU + RGB panels)
+Support both command mode and video mode in MIPI DSI standard
+Support bi-directional data transfer (forward link in High Speed and Low Power mode and reverse link in Low Power mode)
+Ultra Low Power mode in idle state
+On-chip PLL with programmable output frequency
+Power supply: (VDDD and VDDA) 1.8V +/-10%
+IO Power supply: (VDDIO) 3.3V +/-10%, 1.8V +/-10%
+Support of MIPI standard DSI v1.01r9, D-PHY v0.89
+8KV (HBM) ESD protection on MIPI lanes
+Ordering Information
